@@ -1,3 +1,3 @@
 <?php
-include(BanHang.html);
+include("BanHang.html");
 ?>
